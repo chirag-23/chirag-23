@@ -6,12 +6,12 @@
 
 <h1>I'm Chirag Chouhan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
 
-I am a Forntend Developer & a Computer Engineering Student at Delhi Technological University.
+I am a MERN Stack Developer & a Computer Engineering Student at Delhi Technological University.
 
-- 🌱 I’m currently learning MERN Stack Devlopment
-- 📚 Beginner at Competitve Programming 
-- 🥅 2022 Goals: Build more projects to sharpen my skills
-- 👷🏽‍♂️Looking for Opportunities
+- 🌱 I’m currently mastering MERN Stack Devlopment
+- 📚 Intermediate at Competitve Programming 
+- 🥅 2023 Goals: Freelance more real world projects to gain experience
+- 👷🏽‍♂️ Looking for Opportunities
 - ⚡ Fun fact: I like developing stuff for fun
 
 <br/>
@@ -43,9 +43,12 @@ I am a Forntend Developer & a Computer Engineering Student at Delhi Technologica
 <br />
 
 ### 📈GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=chirag-23&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-23&layout=compact&theme=gotham" alt="languages" height="165">
+<p align="left" display="flex">
+
+![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag-23&theme=tokyonight&show_icons=true)
+&nbsp; &nbsp; &nbsp;
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-23&layout=compact&theme=tokyonight)
+
 </p>
 <p align="center">
  <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
