@@ -45,8 +45,7 @@ I am a MERN Stack Developer & a Computer Engineering Student at Delhi Technologi
 ### 📈GitHub Stats
 <p align="left" display="flex">
 
-![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag-23&theme=tokyonight&show_icons=true)
-&nbsp; &nbsp; &nbsp;
+![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag-23&theme=tokyonight&show_icons=true)&nbsp;
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-23&layout=compact&theme=tokyonight)
 
 </p>
