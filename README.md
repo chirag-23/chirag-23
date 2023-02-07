@@ -4,11 +4,11 @@
 
 I am a MERN Stack Developer & a Computer Engineering Student at Delhi Technological University.
 
-- 🌱 I’m currently mastering MERN Stack Devlopment
-- 📚 Intermediate at Competitve Programming 
+- 🌱 I’m currently focused on building professional MERN Stack projects
+- 📚 Practicing competitive programming
 - 🥅 2023 Goals: Freelance more real world projects to gain experience
 - 👷🏽‍♂️ Looking for Opportunities
-- ⚡ Fun fact: I like developing stuff for fun
+- ⚡ Fun fact: Google my name you'll see my GitHub profile there on 1st page.
 
 <br/>
 
