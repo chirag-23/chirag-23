@@ -2,8 +2,6 @@
 
 I'm a Frontend Developer with a Bachelor's in Computer Engineering from Delhi Technological University.
 
----
-
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on Shopify custom storefronts, animations, and performance optimization  
