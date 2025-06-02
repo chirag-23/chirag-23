@@ -35,7 +35,7 @@ I'm a Frontend Developer with a Bachelor's in Computer Engineering from Delhi Te
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirag-23&theme=tokyonight&show_icons=true" alt="Chirag's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chirag-23&theme=tokyonight&show_icons=true&hide=commits" alt="Chirag's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-23&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
