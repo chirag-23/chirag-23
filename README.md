@@ -1,13 +1,13 @@
 <h1>Hi! I'm Chirag <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="Waving hand"/></h1>
 
-I'm a Frontend Developer with a Bachelor's in Computer Engineering from Delhi Technological University.
+I'm a Frontend developer focused on building smooth, interactive, and performance-driven web experiences.
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on Shopify custom storefronts, animations, and performance optimization  
-- 🌱 Learning deeper Shopify Plus workflows, GSAP/Scroll-based interactions  
-- 💬 Ask me about JavaScript, Shopify Liquid, or frontend performance
-- ⚡ Fun fact: I love turning boring UIs into buttery-smooth experiences ✨
+🔭 Building Shopify & Shopify Plus storefronts  
+✨ Building smooth storefront experiences with a focus on performance optimization   
+🛒 Focused on conversion-first development and e-commerce UX   
+🌱 Learning the DTC space — strategy, brand, and what makes products sell online
 
 ---
 
@@ -38,11 +38,4 @@ I'm a Frontend Developer with a Bachelor's in Computer Engineering from Delhi Te
   <img src="https://github-readme-stats.vercel.app/api?username=chirag-23&theme=tokyonight&show_icons=true&hide=commits" alt="Chirag's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-23&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
-
 
